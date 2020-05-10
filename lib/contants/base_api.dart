@@ -1,0 +1,1 @@
+const String BASE_API = "http://www.sopheamen.com/example/api/";
